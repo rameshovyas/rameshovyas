@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramesh Vyas</h1>
 <h3 align="center">A passionate and innovative engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshovyas&label=Profile%20views&color=0e75b6&style=flat" alt="rameshovyas" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshovyas&label=Profile%20views&color=0e75b6&style=flat" alt="rameshovyas" /> </p> -->
 
 - 🌱 I’m currently learning **Rust, Actix-Web, SvelteKit, BLE Mesh**
 
