@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rameshovyas](https://medium.com/@rameshovyas)
 
-- 💬 Ask me about **C++, MFC, WPF, Embedded Systems, Socket Programming, Serial Communication, Firmware**
+- 💬 Ask me about **C++, MFC, WPF, ASP.Net, DotNet Core, REST API, Minimal APIs in DotNetCore,  Embedded Systems, Socket Programming, Serial Communication, Firmware**
 
 - 📫 How to reach me **https://medium.com/@rameshovyas**
 
