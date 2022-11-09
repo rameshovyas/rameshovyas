@@ -9,13 +9,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rameshovyas](https://medium.com/@rameshovyas)
 
-- 💬 Ask me about **C++, MFC, WPF, Socket Programming, Serial Communication, Firmware**
+- 💬 Ask me about **C++, MFC, WPF, Embedded Systems, Socket Programming, Serial Communication, Firmware**
 
 - 📫 How to reach me **https://medium.com/@rameshovyas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://rameshovyas.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="rameshovyas" height="30" width="40" /></a>
+
 <a href="https://medium.com/@rameshovyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rameshovyas" height="30" width="40" /></a>
 </p>
 
