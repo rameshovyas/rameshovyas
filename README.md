@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshovyas&label=Profile%20views&color=0e75b6&style=flat" alt="rameshovyas" /> </p> -->
 
-- 🌱 I’m currently learning **Rust, Actix-Web, SvelteKit, BLE Mesh**
+- 🌱 I’m currently working on **Rust, Auxum, Tokio, Actix-Web, SvelteKit, BLE Mesh**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rameshovyas](https://github.com/rameshovyas)
 
