@@ -3,13 +3,13 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshovyas&label=Profile%20views&color=0e75b6&style=flat" alt="rameshovyas" /> </p> -->
 
-- 🌱 I’m currently working on **Rust, Axum, Tokio, Actix-Web, SvelteKit, BLE Mesh**
+- 🌱 I’m currently working on **DotNet 6, Dotnet MAUI, Rust, Axum, Tokio, Actix-Web, SvelteKit, BLE Mesh**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rameshovyas](https://github.com/rameshovyas)
 
 - 📝 I regularly write articles on [https://medium.com/@rameshovyas](https://medium.com/@rameshovyas)
 
-- 💬 Ask me about **C++, MFC, WPF, ASP.Net, DotNet Core, REST API, Minimal APIs in DotNetCore,Python, Embedded Systems, Socket Programming, Serial Communication, Firmware**
+- 💬 Ask me about **C++, MFC, WPF, DotNet MAUI, ASP.Net, DotNet Core, REST API, Minimal APIs in DotNetCore,Python, Embedded Systems, Socket Programming, Serial Communication, Firmware**
 
 - 📫 How to reach me **https://medium.com/@rameshovyas**
 
